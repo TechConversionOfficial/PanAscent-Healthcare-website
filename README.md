@@ -1,11 +1,20 @@
-
 # PanAscent Pharma website: making healthcare products easier to find and assess online
 
 **PanAscent Pharma is a healthcare products and medical-supplies business whose ecommerce website is featured in the [Tech Conversion](https://techconversion.tech/) portfolio. The [PanAscent Pharma website](https://panascentpharma.com/) organises practical products for hospitals, clinics, healthcare professionals and home-care needs into browsable categories, with product specifications, pricing and purchase actions. Tech Conversion's documented involvement includes website development services.**
 
- Add an authentic screenshot or client-approved project showcase image, then remove these comment markers:
-![PanAscent Pharma healthcare ecommerce homepage](images/panascent-pharma-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/panascent-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/panascent-website-mockup.webp" alt="PanAscent Pharma website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://panascentpharma.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/panascent-new-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -18,6 +27,7 @@
 | **Documented scope** | Website development services; confirmed by a saved project invoice |
 | **Public product areas** | Medical consumables; hospital uniforms and linen; selected healthcare devices and related products |
 | **Portfolio listing** | [Tech Conversion portfolio](https://techconversion.tech/portfolio) |
+| **GitHub repository** | [TechConversionOfficial/PanAscent-Healthcare-website](https://github.com/TechConversionOfficial/PanAscent-Healthcare-website) |
 | **Site platform** | Product category and cart behaviour publicly visible; exact production stack and payment configuration not independently audited |
 
 ## About the business
@@ -49,40 +59,43 @@ The following points describe the **publicly visible site structure** and the de
 7. **Keep accuracy central to trust.** A healthcare storefront must keep medical claims, sterility descriptions, product packaging, warranty details and commercial policies aligned with actual supplier records. This is a quality-control priority, not a verified certification.
 8. **Allow ongoing product maintenance.** Product-led sites need a way for the authorised store team to keep catalogue copy, availability, images and prices up to date. The site's internal workflow was not independently assessed.
 
-## Project images and visual documentation
+## Website and project images
 
-**No authenticated PanAscent Pharma homepage, product-grid or mobile screenshots were available in the saved project-image library at the time of preparation.** The README therefore provides clearly labelled insertion points. No unrelated stock photographs or AI-generated website images have been substituted.
+### Official website mockup
 
-### Homepage and brand presentation
+The following Tech Conversion portfolio mockup presents PanAscent Pharma as a polished healthcare and medical-supplies ecommerce project.
 
- Add a screenshot captured from the authorised PanAscent Pharma website:
-![PanAscent Pharma homepage and ecommerce navigation](images/panascent-pharma-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/panascent-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/panascent-website-mockup.webp" alt="PanAscent Pharma responsive healthcare ecommerce website mockup" width="100%" />
+  </a>
+</p>
 
+*Click the image to open the full-resolution mockup.*
 
-### Medical-supplies product collections
+### Full-length website screenshot
 
- Add the actual medical consumables / hospital uniforms category capture:
-![PanAscent Pharma hospital linen and medical supplies collection](images/panascent-pharma-product-collections.webp)
+The following image is the complete homepage capture supplied through Tech Conversion's project media.
 
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/panascent-new-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/before-after/panascent-new-website-home-page.webp" alt="PanAscent Pharma complete healthcare ecommerce website homepage screenshot" width="100%" />
+  </a>
+</p>
 
-### Individual product information
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
 
-Add the actual live product-detail screenshot:
-![PanAscent Pharma product page with features and specifications](images/panascent-pharma-product-details.webp)
+### Image provenance
 
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` screenshot placeholders and the `IMAGE-SOURCES.md` dependency.
 
-### Shopping cart and purchase journey
- Add an authorised cart screenshot with all personal data removed:
-![PanAscent Pharma shopping cart interface](images/panascent-pharma-cart.webp)
+These visuals document the project presentation but are **not evidence of measured improvements in traffic, product sales, order conversion, enquiries, bounce rate, site speed, customer retention or revenue**.
 
+They also do not independently verify medical-device classification, licensing, manufacturer authorisation, sterility, clinical performance or regulatory compliance for any product shown on the website.
 
-### Responsive mobile experience
-
- Add the original mobile website screenshot:
-![PanAscent Pharma mobile ecommerce layout](images/panascent-pharma-mobile.webp)
-
-
-The image comments above are intentionally **not rendered on GitHub** until the matching files have been added. See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for the missing-assets checklist and image naming rules.
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key visitor journeys
 
@@ -110,9 +123,9 @@ The following are **recommended review criteria**, not evidence of an independen
 
 ## Before and after
 
-A dated and authenticated set of **earlier and redesigned production website screenshots** was not available for PanAscent Pharma. The project is included in Tech Conversion's portfolio, but that alone does not establish a measured before-and-after performance change.
+A full-page screenshot of the delivered PanAscent Pharma website is available and included above. However, **no authenticated historical BEFORE screenshot or dated old-versus-new comparison was supplied for this project**, so this README does not manufacture a redesign comparison.
 
-Once genuine earlier and current screenshots are supplied, the repository can include a side-by-side comparison of the navigation, product discovery, mobile layouts and buying path.
+Other documented transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
@@ -126,6 +139,15 @@ Once genuine earlier and current screenshots are supplied, the repository can in
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public portfolio description**, not a copy of the production codebase. It intentionally excludes the confidential project invoice, financial account details, payment credentials, customer information, prescription data and private business records. PanAscent Pharma brand assets and third-party product imagery belong to their respective owners.
+## Repository scope and image credits
+
+This repository is a **public portfolio description**, not a copy of the production codebase. It intentionally excludes the confidential project invoice, financial account details, payment credentials, customer information, prescription data and private business records.
+
+The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. PanAscent Pharma brand assets and third-party product imagery belong to their respective owners.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
